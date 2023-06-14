@@ -26,7 +26,7 @@ const Card = () => {
 
   return (
     <div className="bg-dark-grayish-blue py-14 px-8 rounded-xl text-white max-w-[33.5rem] grid place-items-center gap-8 m-5 mb-12 relative">
-        <p className='tracking-[.3rem] uppercase text-xs text-neon-green font-bold'>Advice #{data?.slip.id}</p>
+        <h1 className='tracking-[.3rem] uppercase text-xs text-neon-green font-bold'>Advice #{data?.slip.id}</h1>
         <q  className='text-center font-bold tracking-wide text-2xl sm:text-3xl'>
           {data?.slip.advice}
         </q>
