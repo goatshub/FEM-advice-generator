@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-using-nextjs-134-app-directory-ts-and-react-query--SmzdewkXw)
+- Live Site URL: [Vercel](https://fem-advice-generator-goat.vercel.app/)
 
 ## My process
 
